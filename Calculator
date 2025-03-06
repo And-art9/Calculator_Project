@@ -2,6 +2,11 @@ Console.WriteLine("SEhar");
 Console.WriteLine("24_ST_048");
 int a= 5;
 int b= 6;
+ Division
+int division = a/ b;
+Console.WrieLine($"The division of a and b is {division}.");
+
 int multiplication = a * b;
 Console.WrieLine($"The multiplication of a and b is {multiplication}.");
+Multiplication
 
